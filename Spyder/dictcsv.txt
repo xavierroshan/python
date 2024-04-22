@@ -1,0 +1,5 @@
+{'supergeek':5}
+{'GeeksforGeeks':'Education', 'GeekGod':101}
+{'rosshan': 'father'}
+{'deepa': 'mother'}
+{'vincent': 'son'}
